@@ -1,0 +1,10 @@
+id: YDP180B005-V3
+category: displays
+size: "1.8"
+panel: tft
+resolution: 360x360
+interface: [qspi]
+driver: JD9855A
+touch: null
+outline: 48.08 x 49.95 x 1.92 mm
+active_area: "Φ45.684 mm"

@@ -1,0 +1,10 @@
+id: YDP180BT008-V10
+category: displays
+size: "1.8"
+panel: tft
+resolution: 360x360
+interface: [mipi]
+driver: JD9855
+touch: CST816D
+outline: 53.00 x 53.00 mm
+active_area: 45.40 x 45.40 mm
