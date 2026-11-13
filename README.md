@@ -38,7 +38,7 @@
 | 版本 | 宣传图 | 驱动 IC | 触摸驱动 | 接口 | 完整资料 |
 | ---- | ------ | ------- | -------- | ---- | -------- |
 | YDP180B005-V3 | <img alt="YDP180B005-V3" src="./versions/YDP180B005-V3/images/recommend-optimized.png" width="120" /> | JD9855A | — | QSPI | [完整资料](./versions/YDP180B005-V3/) |
-| YDP180B007-V3 | — | JD9855A | — | QSPI | [完整资料](./versions/YDP180B007-V3/) |
+| YDP180B007-V3 | <img alt="YDP180B007-V3" src="./versions/YDP180B007-V3/images/recommend-optimized.png" width="120" /> | JD9855A | — | QSPI | [完整资料](./versions/YDP180B007-V3/) |
 | YDP180BT008-V10 | — | JD9855 | CST816D | MIPI | [完整资料](./versions/YDP180BT008-V10/) |
 
 ---

@@ -11,6 +11,8 @@
   <img alt="Driver: JD9855A" src="https://img.shields.io/badge/Driver-JD9855A-E7352C?style=flat-square" />
 </p>
 
+<p align="center"><img alt="OSPTEK 1.8 寸 360×360 TFT 模组宣传图" src="./images/recommend-optimized.png" width="640" /></p>
+
 ## 目录
 
 - [规格参数](#规格参数)
